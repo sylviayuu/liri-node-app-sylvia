@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app-sylvia",
+  "version": "1.0.0",
+  "description": "This is for node hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylviayuu/liri-node-app-sylvia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sylviayuu/liri-node-app-sylvia/issues"
+  },
+  "homepage": "https://github.com/sylviayuu/liri-node-app-sylvia#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
